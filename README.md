@@ -1,14 +1,17 @@
 # VisionLab
 
-<h1 align="center"> <img src="labelme/icons/icon-256.png" width="200" height="200"><br/>labelme </h1
+<h1 align="center">
+  <img src="assets/logo.png" width="200" height="200"><br/>
+  VisionLab
+</h1>
 
 <h3 align="center">
   AI-assisted image labelling platform built with Python.
 </h3>
 
-<h3 align="center">
+<h4 align="center">
   Smart annotation tool for computer vision datasets and AI workflows.
-</h3>
+</h4>
 
 ---
 
