@@ -1,8 +1,6 @@
 # VisionLab
 
-<p align="center">
-  <img src="assets/logo.png" width="180" height="180">
-</p>
+<h1 align="center"> <img src="labelme/icons/icon-256.png" width="200" height="200"><br/>labelme </h1
 
 <h3 align="center">
 AI-assisted image labelling platform built with Python.
