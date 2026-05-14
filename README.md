@@ -1,6 +1,6 @@
 # VisionLab
 
-<h1 align="center"> <img src="labelme/icons/icon-256.png" width="200" height="200">><br/>
+<h1 align="center"> <img src="labelme/icons/icon-256.png" width="200" height="200"><br/>
   VisionLab
 </h1>
 
