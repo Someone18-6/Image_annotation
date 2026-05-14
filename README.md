@@ -6,9 +6,9 @@
   AI-assisted image labelling platform built with Python.
 </h3>
 
-<p align="center">
+<h3 align="center">
   Smart annotation tool for computer vision datasets and AI workflows.
-</p>
+</h3>
 
 ---
 
