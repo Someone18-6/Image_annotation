@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="labelme/icons/icon-256.png" width="200" height="200"><br/>labelme </h1
 
 <h3 align="center">
-AI-assisted image labelling platform built with Python.
+  AI-assisted image labelling platform built with Python.
 </h3>
 
 <p align="center">
